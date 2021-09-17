@@ -6,9 +6,6 @@ __________________________________________________________
 __________________________________________________________
 
 
-Copyright© 
-All rights reserved.
-
 
 Bu Readme.txt dosyasý, programýn içeriðini ve nasýl kullanýldýðý bilgisini içerir.
 
@@ -32,7 +29,6 @@ Bir menü içerisinde seçim yaparak aþaðýdaki iþlemler gerçekleþir
 -- Çýkýþ dosyasýna yazdýrma sýrasý seçimlerinize göre deðiþecektir.
 -- Data bilgisi yanlýþ verildiyse nokta okumasý yapýlamaz!
 -- Dosya kontrolü yapýlmadan hesaplamalar yapýlamaz!
-
 
 
 
@@ -68,6 +64,7 @@ içinde kalan tüm noktalarý bulur.
 Noktalarýn uzaklýk ortalamasýný hesaplar.
 
 
+
 ***Cikis
 
 Programý sonlandýrýr.
@@ -87,7 +84,8 @@ Soru: "ALANLAR" bilgisi yanlýþ girildiyse, noktalarýn hata tespitleri nasýl gerç
 Cevap: Eðer böyle bir hata varsa, varsayýlan deðer "ALANLAR x y z r g b" olacak ve kontroller buna göre yapýlacak.
 
 
-Soru istek ve önerileriniz için iletiþim adresleri:
+
+Iletiþim adresleri:
 -ege99@yahoo.com
 -emre_yelbey@hotmail.com
 
